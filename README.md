@@ -4,4 +4,4 @@
 请看 图书馆管理系统.docx
 
 jar包下载地址：
-https://www.lanzous.com/i4pgc7e
+https://lanzoui.com/i4pgc7e
