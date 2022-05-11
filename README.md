@@ -1,4 +1,4 @@
-# Library-Management-System
+# Library-Management-System 图书馆管理系统
 
 图书馆管理系统SSM+MySQL
 
