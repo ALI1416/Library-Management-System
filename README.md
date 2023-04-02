@@ -6,19 +6,17 @@
 
 ## 简介
 
-该系统是本人大学时期的课程设计，已不再维护
-
-请使用eclipse导入项目
-
-文档请看`图书馆管理系统.docx`
-
-jar包下载地址：<https://lanzoui.com/i4pgc7e>
+- 该系统是本人大学时期的课程设计，已不再维护
+- 请使用`eclipse`导入项目
+- 文档请看`图书馆管理系统.docx`
+- jar包下载地址：<https://lanzoui.com/i4pgc7e>
 
 ## 交流
 
-QQ：1416978277  
-微信：1416978277  
-支付宝：1416978277@qq.com  
+- [x] QQ：`1416978277`
+- [x] 微信：`1416978277`
+- [x] 支付宝：`1416978277@qq.com`
+
 ![交流](https://cdn.jsdelivr.net/gh/ALI1416/ALI1416/image/contact.png)
 
 ## 赞助
